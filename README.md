@@ -1,4 +1,8 @@
-> ### `  |__`Free theme: 
-> ### `    |__`["FastOread v1.0" ( Documentation](https://fastoread.blogspot.com/documentation) 
-> ### `    |__`[+ Blog DesignedBy fastOread](https://videocovery.blogspot.com/)  
-> ### `    |__`[+ Video tutorial )](https://youtube.com/@VideoCovery)
+<pre>
+
+</pre>
+## My Projects: ( I did )
+---
+> ### Blogger Themes (free)
+> ### `|__`Fastbeauty 
+> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
