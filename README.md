@@ -1,8 +1,3 @@
-<pre>
-
-</pre>
-## My Projects: ( I did )
----
-> ### Blogger Themes (free)
-> ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Paid theme: ["Fastbeauty v2.0" (Files,](#) [+ Video Docs)](https://youtube.com/@VideoCovery)
+>
